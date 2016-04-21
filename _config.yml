@@ -1,0 +1,14 @@
+layout_spectrum: 0.8984706
+typography_spectrum: 1
+color:
+  saturation: 0.1443557
+  lightness: 0.3784572
+  brandStrength: 0.7329749
+  brandColors:
+    - '#00012D'
+    - '#509AF9'
+    - '#134CCF'
+    - '#AADFFE'
+    - '#89AEE6'
+  rhythmicContrast: 0.1049082
+name: MyCustomMe
