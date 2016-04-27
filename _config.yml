@@ -1,14 +1,29 @@
+name: MyCustomMe
+favicon: null
 layout_spectrum: 0.8984706
 typography_spectrum: 1
+title: A one of a kind custom shoppping experience.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1443557
-  lightness: 0.3784572
-  brandStrength: 0.7329749
   brandColors:
     - '#00012D'
     - '#509AF9'
     - '#134CCF'
     - '#AADFFE'
     - '#89AEE6'
+  brandStrength: 0.7329749
+  lightness: 0.3784572
+  saturation: 0.1443557
   rhythmicContrast: 0.1049082
-name: MyCustomMe
+purpose: []
